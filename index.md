@@ -1,7 +1,7 @@
   # Habitarc Support
 
   Welcome to Habitarc Help & FAQ. We’re here to make building lasting habits effortless. If you
-  ever feel stuck, reach out—we usually reply within one business day.
+  ever feel stuck, reach out.
 
   ---
 
