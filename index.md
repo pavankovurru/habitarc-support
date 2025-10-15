@@ -43,25 +43,6 @@
 
   ---
 
-  ## Premium Features
-
-  **What’s included with Habitarc Premium?**
-  - Unlimited habits (free tier includes up to 3).
-  - Custom themes and appearance controls.
-  - Premium customization tools.
-
-  **Do I lose analytics if I stay free?**
-  No. Weekly, Monthly, and Yearly analytics are free for all users.
-
-  **How much does Premium cost?**
-  $4.99 USD per month or $39.99 USD per year.
-
-  **How do I cancel Premium?**
-  Go to iOS Settings → Apple ID → Subscriptions → Habitarc. You’ll keep access until the current
-  billing period ends.
-
-  ---
-
   ## Data & Sync
 
   **Where is my data stored?**
