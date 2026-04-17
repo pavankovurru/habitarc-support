@@ -59,6 +59,14 @@
   **Can I export my data?**
   Exporting isn’t available yet. Your data remains safely in your iCloud account.
 
+  **How does Apple Health auto-complete work?**                                                                                                                      
+  When creating or editing a habit, enable "Auto-complete with Health data" and choose a metric                                                                      
+  (steps, sleep, running distance, active energy, etc.) and a target. Habitarc will automatically                                                                    
+  mark the habit complete when your Apple Health data reaches that goal — even when the app is                                                                       
+  in the background. Health data is read on-device only and never leaves your device.                                                                                
+                                                                                                                                                                     
+  To grant or revoke access go to iOS Settings → Privacy & Security → Health → Habitarc.
+
   ---
 
   ## Notifications & Reminders
